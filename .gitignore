@@ -4,4 +4,5 @@
 *.iml
 target/
 .DS_Store
+xxl-job-admin/src/main/resources/application.properties
 .gitattributes
